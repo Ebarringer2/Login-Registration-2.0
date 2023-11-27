@@ -1,0 +1,29 @@
+.hidden {
+    display: none;
+}
+
+.c1, .c2, .paragraph1 {
+    position: absolute;
+    font-family: 'Arial', sans-serif;
+}
+
+.c1, .c2 {
+    font-size: 30px;
+}
+
+.c1 {
+    top: 40%;
+    left: 45%;
+}
+
+.c2 {
+    top: 50%;
+    left: 48.5%;
+}
+
+.paragraph1 {
+    font-size: 50px;
+    text-align: center;
+    top: 10%;
+    width: 100%;
+}
